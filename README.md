@@ -5,6 +5,7 @@
 ## Contém
 
 - MVP Canvas e Lean Inception completo no Miro. Para acessar, abra este [LINK](https://miro.com/app/board/uXjVKcTozKY=/?share_link_id=775719527704).
+- Arquivo PDF contendo a descrição do Cenário Hipotético, Contexto, Stakeholders e Equipe do Projeto.
 - Página Kaggle do dataset Graduate Admission como referência e fonte: [Kaggle](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions/data)
 - Video de Apresentação e Execução do Projeto no [YouTube](https://www.youtube.com/watch?v=t-cheeZpgYo)
 - Pasta "Original CSV Files" com o dataset original da fonte e dataset tratado (Chance Of Admit)
